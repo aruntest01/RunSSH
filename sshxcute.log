@@ -1,0 +1,30 @@
+
+--------------- [2015/10/06 17:04:16, com.arun.test.RunSSHUtil.loadProps:60] --- CLEARED ----------
+
+
+=============== [2015/10/06 17:04:23, net.neoremind.sshxcute.core.SSHExec.<clinit>:31] ====================
+
+[17:04:23] INFO:    SSHExec initializing ...
+[17:04:23] INFO:    Session initialized and associated with user credential Chng@0915
+[17:04:23] INFO:    SSHExec initialized successfully
+[17:04:23] INFO:    SSHExec trying to connect petestrc@he3ilxvdmid027
+[17:04:25] INFO:    SSH connection established
+[17:04:25] INFO:    Command is cd ../../../wlsdata/dev/sfss/lna/lnaSIT7Domain/;cd ..;ls
+[17:04:25] INFO:    Connection channel established succesfully
+[17:04:25] INFO:    Start to run command
+[17:04:25] INFO:    lnaDev1Domain
+lnaDev2Domain
+lnaDev3Domain
+lnaDev4Domain
+lnaSIT1Domain
+lnaSIT2Domain
+lnaSIT3Domain
+lnaSIT4Domain
+lnaSIT7Domain
+lnaSIT8Domain
+
+[17:04:25] INFO:    Connection channel closed
+[17:04:25] INFO:    Check if exec success or not ... 
+[17:04:25] INFO:    Execute successfully for command: cd ../../../wlsdata/dev/sfss/lna/lnaSIT7Domain/;cd ..;ls
+[17:05:01] INFO:    Connection channel disconnect
+[17:05:02] INFO:    SSH connection shutdown
